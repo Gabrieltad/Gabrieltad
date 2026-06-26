@@ -18,8 +18,8 @@ Papel: produto, design e desenvolvimento. Stack: Next.js 14, Tailwind, Supabase/
 Marketplace B2B multi-tenant de material de construção, o "sistema operacional da obra". Cotação consolidada entre lojas, pedido, pagamento com split e escrow, logística e conectores de ERP.<br>
 Papel: produto, arquitetura e código. Stack: Next.js (PWA), Supabase (Postgres + RLS), Asaas, Lalamove.
 
-**Figurinhas Express** · [figurinhas-express.vercel.app](https://figurinhas-express.vercel.app)<br>
-E-commerce de figurinhas e álbuns oficiais Panini da Copa 2026, com venda B2C e atacado B2B, portal do parceiro, CRM de leads e nota fiscal. Em produção.<br>
+**Figurinhas Express** · [figurinhasexpress.com.br](https://figurinhasexpress.com.br)<br>
+E-commerce de figurinhas e álbuns oficiais Panini da Copa 2026, com venda B2C e atacado B2B, portal do parceiro, CRM de leads e nota fiscal. Negócio real em produção, com vendas e captação orgânica de leads.<br>
 Papel: produto e desenvolvimento. Stack: Next.js 16, Supabase, Vercel.
 
 **LexForce** · [lexforce-site.vercel.app](https://lexforce-site.vercel.app)<br>
